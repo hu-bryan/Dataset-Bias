@@ -1,0 +1,79 @@
+Terms       PMI
+4           man  2.339760
+1328     beared  2.339760
+6846  refueling  2.187757
+109      shaven  2.152133
+2085   mustache  2.124032
+1845       afro  2.105295
+
+Terms       PMI
+0           men  4.298503
+2001    turbans  4.191588
+566   rickshaws  3.976575
+197       wives  3.851044
+2211     cigars  3.527985
+846     tuxedos  3.520896
+
+Terms       PMI
+0          boy  4.450802
+2006     hacky  3.713836
+866      scout  3.612553
+868     scouts  3.607528
+1791  playroom  3.450802
+2254       cot  3.313299
+
+Terms       PMI
+2          male  8.061426
+1122      entry  5.739498
+170       dumps  5.476464
+1199   youthful  5.476464
+799    vocalist  5.417570
+1630  invention  5.360987
+
+Terms       PMI
+0         woman  3.257114
+2760     weaves  2.935186
+5885  chevrolet  2.842077
+1802       veil  2.771687
+2009        bra  2.726599
+1027    applies  2.702525
+
+Terms       PMI
+2        women  5.067460
+1324    burkas  4.430030
+965   husbands  4.344994
+1934     saris  4.289853
+3024   kimonos  4.219463
+1145   bikinis  4.187042
+
+Terms       PMI
+3         girl  4.403986
+887   pigtails  3.988949
+2034     diary  3.667021
+3509  biscuits  3.596631
+2695     fairy  3.403986
+2980    totter  3.403986
+
+Terms       PMI
+0            female  7.684831
+564   contortionist  6.362902
+451      consisting  6.099868
+1000         tanned  5.684831
+602         slender  5.597368
+1760        barista  5.547327
+
+Terms        PMI
+0    caucasian  11.990158
+56     slender   9.902695
+180     fleece   8.742231
+30         non   8.289718
+182        zip   7.990158
+156    festive   7.820233
+
+Terms        PMI
+2        african  10.024178
+502    headstand   8.287213
+1       american   8.189856
+288       safari   8.117288
+263      descent   7.550247
+347  accompanied   7.439216

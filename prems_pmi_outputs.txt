@@ -1,0 +1,80 @@
+Terms       PMI
+6             man  1.967245
+2282   girlfriend  1.889243
+2163       shaves  1.860330
+1568    mustached  1.860330
+2632  breakdances  1.851768
+3946      rearing  1.829742
+
+Terms       PMI
+0           men  4.086471
+1628    turbans  3.960940
+546     tuxedos  3.874967
+1157    ladders  3.238474
+1265  jumpsuits  3.230861
+1184   wetsuits  3.212002
+
+Terms       PMI
+4          boy  4.113468
+667      scout  3.818013
+804     scouts  3.768333
+1828      slip  3.335861
+762     lizard  3.113468
+360   pumpkins  3.035466
+
+Terms       PMI
+9            male  6.796670
+1054      bassist  4.796670
+1055     vocalist  4.626745
+534   cheerleader  4.427436
+116     caucasian  4.398120
+266   entertainer  4.337238
+
+Terms       PMI
+0           woman  2.892752
+2985      mascara  2.892752
+1606     lipstick  2.593192
+2483      incense  2.570824
+1283         veil  2.530182
+2262  clothesline  2.445293
+
+Terms       PMI
+5          women  4.939860
+425        saris  4.691932
+590  headscarves  4.454433
+611      bikinis  4.354897
+451  headdresses  4.302430
+250    coverings  3.939860
+
+Terms       PMI
+2          girl  4.084527
+1366     cereal  3.736604
+615    pigtails  3.645643
+2120      fairy  3.499564
+1466     stitch  3.432450
+1894  slingshot  3.347561
+
+Terms       PMI
+10       female  6.888648
+270    vocalist  5.526078
+60    companion  5.303685
+428      stroke  5.151682
+1252    dentist  5.040651
+167     athlete  5.022665
+
+Terms        PMI
+4     caucasian  10.348079
+268     lockers   7.763117
+166       pages   7.026151
+364    explains   7.026151
+332    handsome   7.026151
+433  straddling   7.026151
+
+Terms       PMI
+5      african  8.192040
+181  americans  7.307517
+94       tribe  7.192040
+0     american  6.980808
+442       huts  6.104577
+124  villagers  5.944112
+
